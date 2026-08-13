@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 90 days are shown."
+    },
+    {
+      "description": "If you'd like to include your paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. You can generate the required markdown format for each paper by filling in the information in and execute . We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience.",
+      "items": [],
+      "title": "💮 Contributing"
+    },
+    {
+      "description": "For each topic, we have curated a list of recommended papers that have garnered a lot of GitHub stars or citations.",
+      "items": [],
+      "title": ":star: Recommended Paper"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Paper from Sep 30, 2024 - Now (see Full List from May 22, 2023 here)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network Pruning / Sparsity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Knowledge Distillation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Quantization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Inference Acceleration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Efficient MOE"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Efficient Architecture of LLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KV Cache Compression"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Compression"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Low-Rank Decomposition"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware/System/Serving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Efficient Fine-tuning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Efficient Training"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey (or Benchmark)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:31:13.493Z",
+    "original_repository": "horseee/Awesome-Efficient-LLM",
+    "original_repository_sha": "215a1540bc0e7f80041b103b9f3765ddfca976d4",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Efficient-LLM",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Efficient-LLM with stars"
+  }
+}
