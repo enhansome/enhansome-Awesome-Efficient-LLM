@@ -58,7 +58,7 @@
             {
               "node_type": "item",
               "title": "sparsegpt",
-              "description": "star: SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot Elias Frantar, Dan Alistarh Github paper [//]: #Recommend",
+              "description": "star: SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot Elias Frantar, Dan Alistarh  Github paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -73,7 +73,7 @@
             {
               "node_type": "item",
               "title": "LLM-Pruner",
-              "description": "star: LLM-Pruner: On the Structural Pruning of Large Language Models Xinyin Ma, Gongfan Fang, Xinchao Wang Github paper [//]: #Recommend",
+              "description": "star: LLM-Pruner: On the Structural Pruning of Large Language Models Xinyin Ma, Gongfan Fang, Xinchao Wang  Github paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -82,13 +82,13 @@
                 "last_commit": "2024-10-07T08:49:26Z",
                 "owner": "horseee",
                 "repo": "LLM-Pruner",
-                "stars": 1135
+                "stars": 1136
               }
             },
             {
               "node_type": "item",
               "title": "wanda",
-              "description": "star: A Simple and Effective Pruning Approach for Large Language Models Mingjie Sun, Zhuang Liu, Anna Bair, J. Zico Kolter Github Paper [//]: #Recommend",
+              "description": "star: A Simple and Effective Pruning Approach for Large Language Models Mingjie Sun, Zhuang Liu, Anna Bair, J. Zico Kolter  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -103,7 +103,7 @@
             {
               "node_type": "item",
               "title": "LLM-Shearing",
-              "description": "star: Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning Mengzhou Xia, Tianyu Gao, Zhiyuan Zeng, Danqi Chen Github Paper [//]: #Recommend",
+              "description": "star: Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning Mengzhou Xia, Tianyu Gao, Zhiyuan Zeng, Danqi Chen  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -118,7 +118,7 @@
             {
               "node_type": "item",
               "title": "MaskLLM",
-              "description": "star: MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models Gongfan Fang, Hongxu Yin, Saurav Muralidharan, Greg Heinrich, Jeff Pool, Jan Kautz, Pavlo Molchanov, Xinchao Wang Github Paper [//]: #Recommend",
+              "description": "star: MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models Gongfan Fang, Hongxu Yin, Saurav Muralidharan, Greg Heinrich, Jeff Pool, Jan Kautz, Pavlo Molchanov, Xinchao Wang  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
             {
               "node_type": "item",
               "title": "Hardware-Aware-Automated-Machine-Learning",
-              "description": "Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models Juan Pablo Munoz, Jinjie Yuan, Nilesh Jain Github Paper [//]: #01/28",
+              "description": "Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models Juan Pablo Munoz, Jinjie Yuan, Nilesh Jain  Github Paper [//]: #01/28",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -148,7 +148,7 @@
             {
               "node_type": "item",
               "title": "Hardware-Aware-Automated-Machine-Learning",
-              "description": "MultiPruner: Balanced Structure Removal in Foundation Models Juan Pablo Munoz, Jinjie Yuan, Nilesh Jain Github Paper [//]: #01/17",
+              "description": "MultiPruner: Balanced Structure Removal in Foundation Models Juan Pablo Munoz, Jinjie Yuan, Nilesh Jain  Github Paper [//]: #01/17",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -163,7 +163,7 @@
             {
               "node_type": "item",
               "title": "Navigation_LLM_layer_pruning",
-              "description": "Reassessing Layer Pruning in LLMs: New Insights and Methods Yao Lu, Hao Cheng, Yujie Fang, Zeyu Wang, Jiaheng Wei, Dongwei Xu, Qi Xuan, Xiaoniu Yang, Zhaowei Zhu Github Paper [//]: #12/03",
+              "description": "Reassessing Layer Pruning in LLMs: New Insights and Methods Yao Lu, Hao Cheng, Yujie Fang, Zeyu Wang, Jiaheng Wei, Dongwei Xu, Qi Xuan, Xiaoniu Yang, Zhaowei Zhu  Github Paper [//]: #12/03",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -178,7 +178,7 @@
             {
               "node_type": "item",
               "title": "AmoebaLLM",
-              "description": "AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment Yonggan Fu, Zhongzhi Yu, Junwei Li, Jiayi Qian, Yongan Zhang, Xiangchi Yuan, Dachuan Shi, Roman Yakunin, Yingyan Celine Lin Github Paper [//]: #11/24",
+              "description": "AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment Yonggan Fu, Zhongzhi Yu, Junwei Li, Jiayi Qian, Yongan Zhang, Xiangchi Yuan, Dachuan Shi, Roman Yakunin, Yingyan Celine Lin  Github Paper [//]: #11/24",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -193,7 +193,7 @@
             {
               "node_type": "item",
               "title": "DRPruning",
-              "description": "DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Min Zhang, Zhaopeng Tu Github Paper [//]: #11/24",
+              "description": "DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Min Zhang, Zhaopeng Tu  Github Paper [//]: #11/24",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -208,7 +208,7 @@
             {
               "node_type": "item",
               "title": "SparsingLaw",
-              "description": "Sparsing Law: Towards Large Language Models with Greater Activation Sparsity Yuqi Luo, Chenyang Song, Xu Han, Yingfa Chen, Chaojun Xiao, Zhiyuan Liu, Maosong Sun Github Paper [//]: #11/18",
+              "description": "Sparsing Law: Towards Large Language Models with Greater Activation Sparsity Yuqi Luo, Chenyang Song, Xu Han, Yingfa Chen, Chaojun Xiao, Zhiyuan Liu, Maosong Sun  Github Paper [//]: #11/18",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -223,7 +223,7 @@
             {
               "node_type": "item",
               "title": "LLMCBench",
-              "description": "LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment Ge Yang, Changyi He, Jinyang Guo, Jianyu Wu, Yifu Ding, Aishan Liu, Haotong Qin, Pengliang Ji, Xianglong Liu Github Paper [//]: #11/17",
+              "description": "LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment Ge Yang, Changyi He, Jinyang Guo, Jianyu Wu, Yifu Ding, Aishan Liu, Haotong Qin, Pengliang Ji, Xianglong Liu  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -238,7 +238,7 @@
             {
               "node_type": "item",
               "title": "EvoPress",
-              "description": "EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search Oliver Sieberling, Denis Kuznedelev, Eldar Kurtic, Dan Alistarh Github Paper [//]: #10/30",
+              "description": "EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search Oliver Sieberling, Denis Kuznedelev, Eldar Kurtic, Dan Alistarh  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -253,7 +253,7 @@
             {
               "node_type": "item",
               "title": "APT",
-              "description": "Pruning Foundation Models for High Accuracy without Retraining Pu Zhao, Fei Sun, Xuan Shen, Pinrui Yu, Zhenglun Kong, Yanzhi Wang, Xue Lin Github Paper [//]: #10/30",
+              "description": "Pruning Foundation Models for High Accuracy without Retraining Pu Zhao, Fei Sun, Xuan Shen, Pinrui Yu, Zhenglun Kong, Yanzhi Wang, Xue Lin  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -268,7 +268,7 @@
             {
               "node_type": "item",
               "title": "AlphaPruning",
-              "description": "AlphaPruning: Using Heavy-Tailed Self Regularization Theory for Improved Layer-wise Pruning of Large Language Models Haiquan Lu, Yefan Zhou, Shiwei Liu, Zhangyang Wang, Michael W. Mahoney, Yaoqing Yang Github Paper [//]: #10/21",
+              "description": "AlphaPruning: Using Heavy-Tailed Self Regularization Theory for Improved Layer-wise Pruning of Large Language Models Haiquan Lu, Yefan Zhou, Shiwei Liu, Zhangyang Wang, Michael W. Mahoney, Yaoqing Yang  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -283,7 +283,7 @@
             {
               "node_type": "item",
               "title": "DISP-LLM-Dimension-Independent-Structural-Pruning",
-              "description": "DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models Shangqian Gao, Chi-Heng Lin, Ting Hua, Tang Zheng, Yilin Shen, Hongxia Jin, Yen-Chang Hsu Github Paper [//]: #10/21",
+              "description": "DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models Shangqian Gao, Chi-Heng Lin, Ting Hua, Tang Zheng, Yilin Shen, Hongxia Jin, Yen-Chang Hsu  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -298,7 +298,7 @@
             {
               "node_type": "item",
               "title": "llm-pruning-calibration-data",
-              "description": "Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning Abhinav Bandari, Lu Yin, Cheng-Yu Hsieh, Ajay Kumar Jaiswal, Tianlong Chen, Li Shen, Ranjay Krishna, Shiwei Liu Github Paper [//]: #10/13",
+              "description": "Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning Abhinav Bandari, Lu Yin, Cheng-Yu Hsieh, Ajay Kumar Jaiswal, Tianlong Chen, Li Shen, Ranjay Krishna, Shiwei Liu  Github Paper [//]: #10/13",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -313,7 +313,7 @@
             {
               "node_type": "item",
               "title": "Hardware-Aware-Automated-Machine-Learning",
-              "description": "SQFT: Low-cost Model Adaptation in Low-precision Sparse Foundation Models Juan Pablo Munoz, Jinjie Yuan, Nilesh Jain Github Paper [//]: #10/01",
+              "description": "SQFT: Low-cost Model Adaptation in Low-precision Sparse Foundation Models Juan Pablo Munoz, Jinjie Yuan, Nilesh Jain  Github Paper [//]: #10/01",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -328,7 +328,7 @@
             {
               "node_type": "item",
               "title": "sparse-frontier",
-              "description": "The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, Edoardo M. Ponti Github Paper [//]: #05/05",
+              "description": "The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, Edoardo M. Ponti  Github Paper [//]: #05/05",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -343,7 +343,7 @@
             {
               "node_type": "item",
               "title": "Simba",
-              "description": "Sparsified State-Space Models are Efficient Highway Networks Woomin Song, Jihoon Tack, Sangwoo Mo, Seunghyuk Oh, Jinwoo Shin Github Paper [//]: #06/03",
+              "description": "Sparsified State-Space Models are Efficient Highway Networks Woomin Song, Jihoon Tack, Sangwoo Mo, Seunghyuk Oh, Jinwoo Shin  Github Paper [//]: #06/03",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": ":star: Knowledge Distillation of Large Language Models",
-              "description": "Yuxian Gu, Li Dong, Furu Wei, Minlie Huang Github Paper [//]: #Recommend",
+              "description": "Yuxian Gu, Li Dong, Furu Wei, Minlie Huang  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "FSA-Distillation",
-              "description": "Distilling Fine-grained Sentiment Understanding from Large Language Models Yice Zhang, Guangyu Xie, Hongling Xu, Kaiheng Hou, Jianzhu Bao, Qianlong Wang, Shiwei Chen, Ruifeng Xu Github Paper [//]: #12/30",
+              "description": "Distilling Fine-grained Sentiment Understanding from Large Language Models Yice Zhang, Guangyu Xie, Hongling Xu, Kaiheng Hou, Jianzhu Bao, Qianlong Wang, Shiwei Chen, Ruifeng Xu  Github Paper [//]: #12/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -395,7 +395,7 @@
             {
               "node_type": "item",
               "title": "knowledge-distillation",
-              "description": "Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting Vijay Goyal, Mustafa Khan, Aprameya Tirupati, Harveer Saini, Michael Lam, Kevin Zhu Github Paper [//]: #12/30",
+              "description": "Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting Vijay Goyal, Mustafa Khan, Aprameya Tirupati, Harveer Saini, Michael Lam, Kevin Zhu  Github Paper [//]: #12/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "GenPI",
-              "description": "Generative Prompt Internalization Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo Github Paper [//]: #12/02",
+              "description": "Generative Prompt Internalization Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo  Github Paper [//]: #12/02",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -425,7 +425,7 @@
             {
               "node_type": "item",
               "title": "sdtt",
-              "description": "Beyond Autoregression: Fast LLMs via Self-Distillation Through Time Justin Deschenaux, Caglar Gulcehre Github Paper [//]: #11/17",
+              "description": "Beyond Autoregression: Fast LLMs via Self-Distillation Through Time Justin Deschenaux, Caglar Gulcehre  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -440,7 +440,7 @@
             {
               "node_type": "item",
               "title": "MiniPLM",
-              "description": "MiniPLM: Knowledge Distillation for Pre-Training Language Models Yuxian Gu, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang Github Paper [//]: #10/29",
+              "description": "MiniPLM: Knowledge Distillation for Pre-Training Language Models Yuxian Gu, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang  Github Paper [//]: #10/29",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
             {
               "node_type": "item",
               "title": "gptq",
-              "description": "star: GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh Github Paper [//]: #Recommend",
+              "description": "star: GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,7 +477,7 @@
             {
               "node_type": "item",
               "title": "smoothquant",
-              "description": "star: SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models Guangxuan Xiao, Ji Lin, Mickael Seznec, Hao Wu, Julien Demouth, Song Han Github Paper [//]: #Recommend",
+              "description": "star: SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models Guangxuan Xiao, Ji Lin, Mickael Seznec, Hao Wu, Julien Demouth, Song Han  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -492,7 +492,7 @@
             {
               "node_type": "item",
               "title": "llm-awq",
-              "description": "star: AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Xingyu Dang, Song Han Github Paper [//]: #Recommend",
+              "description": "star: AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Xingyu Dang, Song Han  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -507,7 +507,7 @@
             {
               "node_type": "item",
               "title": "OmniQuant",
-              "description": "star: OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models Wenqi Shao, Mengzhao Chen, Zhaoyang Zhang, Peng Xu, Lirui Zhao, Zhiqian Li, Kaipeng Zhang, Peng Gao, Yu Qiao, Ping Luo Github Paper [//]: #Recommend",
+              "description": "star: OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models Wenqi Shao, Mengzhao Chen, Zhaoyang Zhang, Peng Xu, Lirui Zhao, Zhiqian Li, Kaipeng Zhang, Peng Gao, Yu Qiao, Ping Luo  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -516,13 +516,13 @@
                 "last_commit": "2025-11-26T07:22:07Z",
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 907
+                "stars": 908
               }
             },
             {
               "node_type": "item",
               "title": "project-resq",
-              "description": "ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals Utkarsh Saxena, Sayeh Sharify, Kaushik Roy, Xin Wang Github Paper [//]: #12/30",
+              "description": "ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals Utkarsh Saxena, Sayeh Sharify, Kaushik Roy, Xin Wang  Github Paper [//]: #12/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
             {
               "node_type": "item",
               "title": "BitMoD-HPCA-25",
-              "description": "BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration Yuzong Chen, Ahmed F. AbouElhamayed, Xilai Dai, Yang Wang, Marta Andronic, George A. Constantinides, Mohamed S. Abdelfattah Github Paper [//]: #11/24",
+              "description": "BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration Yuzong Chen, Ahmed F. AbouElhamayed, Xilai Dai, Yang Wang, Marta Andronic, George A. Constantinides, Mohamed S. Abdelfattah  Github Paper [//]: #11/24",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,7 +552,7 @@
             {
               "node_type": "item",
               "title": "TesseraQ",
-              "description": "TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction Yuhang Li, Priyadarshini Panda Github Paper [//]: #11/17",
+              "description": "TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction Yuhang Li, Priyadarshini Panda  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -567,7 +567,7 @@
             {
               "node_type": "item",
               "title": "BitStack",
-              "description": "BitStack: Fine-Grained Size Control for Compressed Large Language Models in Variable Memory Environments Xinghao Wang, Pengyu Wang, Bo Wang, Dong Zhang, Yunhua Zhou, Xipeng Qiu Github Paper [//]: #11/17",
+              "description": "BitStack: Fine-Grained Size Control for Compressed Large Language Models in Variable Memory Environments Xinghao Wang, Pengyu Wang, Bo Wang, Dong Zhang, Yunhua Zhou, Xipeng Qiu  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -582,7 +582,7 @@
             {
               "node_type": "item",
               "title": "BitNet",
-              "description": "1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs Jinheng Wang, Hansong Zhou, Ting Song, Shaoguang Mao, Shuming Ma, Hongyu Wang, Yan Xia, Furu Wei Github Paper [//]: #10/30",
+              "description": "1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs Jinheng Wang, Hansong Zhou, Ting Song, Shaoguang Mao, Shuming Ma, Hongyu Wang, Yan Xia, Furu Wei  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -591,13 +591,13 @@
                 "last_commit": "2026-07-27T05:52:06Z",
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40130
+                "stars": 40133
               }
             },
             {
               "node_type": "item",
               "title": "SqueezeLLM",
-              "description": "star: SqueezeLLM: Dense-and-Sparse Quantization Sehoon Kim, Coleman Hooper, Amir Gholami, Zhen Dong, Xiuyu Li, Sheng Shen, Michael W. Mahoney, Kurt Keutzer Github Paper [//]: #Recommend",
+              "description": "star: SqueezeLLM: Dense-and-Sparse Quantization Sehoon Kim, Coleman Hooper, Amir Gholami, Zhen Dong, Xiuyu Li, Sheng Shen, Michael W. Mahoney, Kurt Keutzer  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -612,7 +612,7 @@
             {
               "node_type": "item",
               "title": "FlatQuant",
-              "description": "FlatQuant: Flatness Matters for LLM Quantization Yuxuan Sun, Ruikang Liu, Haoli Bai, Han Bao, Kang Zhao, Yuening Li, Jiaxin Hu, Xianzhi Yu, Lu Hou, Chun Yuan, Xin Jiang, Wulong Liu, Jun Yao Github Paper [//]: #10/21",
+              "description": "FlatQuant: Flatness Matters for LLM Quantization Yuxuan Sun, Ruikang Liu, Haoli Bai, Han Bao, Kang Zhao, Yuening Li, Jiaxin Hu, Xianzhi Yu, Lu Hou, Chun Yuan, Xin Jiang, Wulong Liu, Jun Yao  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -627,7 +627,7 @@
             {
               "node_type": "item",
               "title": "slim",
-              "description": "SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs Mohammad Mozaffari, Maryam Mehri Dehnavi Github Paper [//]: #10/21",
+              "description": "SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs Mohammad Mozaffari, Maryam Mehri Dehnavi  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,7 +642,7 @@
             {
               "node_type": "item",
               "title": "DAQ",
-              "description": "DAQ: Density-Aware Post-Training Weight-Only Quantization For LLMs Yingsong Luo, Ling Chen Github Paper [//]: #10/21",
+              "description": "DAQ: Density-Aware Post-Training Weight-Only Quantization For LLMs Yingsong Luo, Ling Chen  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -657,7 +657,7 @@
             {
               "node_type": "item",
               "title": "Quamba",
-              "description": "Quamba: A Post-Training Quantization Recipe for Selective State Space Models Hung-Yueh Chiang, Chi-Chih Chang, Natalia Frumkin, Kai-Chiang Wu, Diana Marculescu Github Paper [//]: #10/21",
+              "description": "Quamba: A Post-Training Quantization Recipe for Selective State Space Models Hung-Yueh Chiang, Chi-Chih Chang, Natalia Frumkin, Kai-Chiang Wu, Diana Marculescu  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -672,7 +672,7 @@
             {
               "node_type": "item",
               "title": "PrefixQuant",
-              "description": "PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs Mengzhao Chen, Yi Liu, Jiahao Wang, Yi Bin, Wenqi Shao, Ping Luo Github Paper [//]: #10/14",
+              "description": "PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs Mengzhao Chen, Yi Liu, Jiahao Wang, Yi Bin, Wenqi Shao, Ping Luo  Github Paper [//]: #10/14",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -687,7 +687,7 @@
             {
               "node_type": "item",
               "title": "AQLM",
-              "description": "star: Extreme Compression of Large Language Models via Additive Quantization Vage Egiazarian, Andrei Panferov, Denis Kuznedelev, Elias Frantar, Artem Babenko, Dan Alistarh Github Paper [//]: #Recommend",
+              "description": "star: Extreme Compression of Large Language Models via Additive Quantization Vage Egiazarian, Andrei Panferov, Denis Kuznedelev, Elias Frantar, Artem Babenko, Dan Alistarh  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -702,7 +702,7 @@
             {
               "node_type": "item",
               "title": "GuidedQuant",
-              "description": "GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance Jinuk Kim, Marwa El Halabi, Wonpyo Park, Clemens JS Schaefer, Deokjae Lee, Yeonhong Park, Jae W. Lee, Hyun Oh Song Github Paper [//]: #06/15",
+              "description": "GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance Jinuk Kim, Marwa El Halabi, Wonpyo Park, Clemens JS Schaefer, Deokjae Lee, Yeonhong Park, Jae W. Lee, Hyun Oh Song  Github Paper [//]: #06/15",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -724,7 +724,7 @@
             {
               "node_type": "item",
               "title": "DejaVu",
-              "description": "star: Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time Zichang Liu, Jue WANG, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen Github Paper [//]: #Recommend",
+              "description": "star: Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time Zichang Liu, Jue WANG, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -739,7 +739,7 @@
             {
               "node_type": "item",
               "title": "flexflow-train",
-              "description": "star: SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Rae Ying Yee Wong, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia Github paper [//]: #Recommend",
+              "description": "star: SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Rae Ying Yee Wong, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia  Github paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -754,7 +754,7 @@
             {
               "node_type": "item",
               "title": "streaming-llm",
-              "description": "star: Efficient Streaming Language Models with Attention Sinks Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis Github Paper [//]: #Recommend",
+              "description": "star: Efficient Streaming Language Models with Attention Sinks Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -769,7 +769,7 @@
             {
               "node_type": "item",
               "title": "EAGLE",
-              "description": "star: EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation Yuhui Li, Chao Zhang, and Hongyang Zhang Github Blog [//]: #Recommend",
+              "description": "star: EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation Yuhui Li, Chao Zhang, and Hongyang Zhang  Github Blog [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -778,13 +778,13 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2510
+                "stars": 2511
               }
             },
             {
               "node_type": "item",
               "title": "Medusa",
-              "description": "star: Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao Github Paper [//]: #Recommend",
+              "description": "star: Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -799,7 +799,7 @@
             {
               "node_type": "item",
               "title": "SMoA",
-              "description": "SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, Lijie Hu, Jiayi Shen Github Paper [//]: #11/18",
+              "description": "SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, Lijie Hu, Jiayi Shen  Github Paper [//]: #11/18",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -814,7 +814,7 @@
             {
               "node_type": "item",
               "title": "MagicPIG",
-              "description": "MagicPIG: LSH Sampling for Efficient LLM Generation Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen Github Paper [//]: #10/30",
+              "description": "MagicPIG: LSH Sampling for Efficient LLM Generation Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,7 +829,7 @@
             {
               "node_type": "item",
               "title": "Vocabulary_pruning",
-              "description": "Dynamic Vocabulary Pruning in Early-Exit LLMs Jort Vincenti, Karim Abdel Sadek, Joan Velja, Matteo Nulli, Metod Jazbec Github Paper [//]: #10/29",
+              "description": "Dynamic Vocabulary Pruning in Early-Exit LLMs Jort Vincenti, Karim Abdel Sadek, Joan Velja, Matteo Nulli, Metod Jazbec  Github Paper [//]: #10/29",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -844,7 +844,7 @@
             {
               "node_type": "item",
               "title": "CoreInfer",
-              "description": "CoreInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation Qinsi Wang, Saeed Vahidian, Hancheng Ye, Jianyang Gu, Jianyi Zhang, Yiran Chen Github Paper [//]: #10/29",
+              "description": "CoreInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation Qinsi Wang, Saeed Vahidian, Hancheng Ye, Jianyang Gu, Jianyi Zhang, Yiran Chen  Github Paper [//]: #10/29",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -859,7 +859,7 @@
             {
               "node_type": "item",
               "title": "duo-attention",
-              "description": "DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads Guangxuan Xiao, Jiaming Tang, Jingwei Zuo, Junxian Guo, Shang Yang, Haotian Tang, Yao Fu, Song Han Github Paper [//]: #10/21",
+              "description": "DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads Guangxuan Xiao, Jiaming Tang, Jingwei Zuo, Junxian Guo, Shang Yang, Haotian Tang, Yao Fu, Song Han  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -874,7 +874,7 @@
             {
               "node_type": "item",
               "title": "SWIFT",
-              "description": "SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li Github Paper [//]: #10/14",
+              "description": "SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  Github Paper [//]: #10/14",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -889,7 +889,7 @@
             {
               "node_type": "item",
               "title": "TurboRAG",
-              "description": "TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text Songshuo Lu, Hua Wang, Yutian Rong, Zhi Chen, Yaohua Tang Github Paper [//]: #10/13",
+              "description": "TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text Songshuo Lu, Hua Wang, Yutian Rong, Zhi Chen, Yaohua Tang  Github Paper [//]: #10/13",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -911,7 +911,7 @@
             {
               "node_type": "item",
               "title": "mixtral-offloading",
-              "description": "star: Fast Inference of Mixture-of-Experts Language Models with Offloading Artyom Eliseev, Denis Mazur Github Paper [//]: #Recommend",
+              "description": "star: Fast Inference of Mixture-of-Experts Language Models with Offloading Artyom Eliseev, Denis Mazur  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -926,7 +926,7 @@
             {
               "node_type": "item",
               "title": "CD-MoE",
-              "description": "Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning Mingyu Cao, Gen Li, Jie Ji, Jiaqi Zhang, Xiaolong Ma, Shiwei Liu, Lu Yin Github Paper [//]: #12/09",
+              "description": "Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning Mingyu Cao, Gen Li, Jie Ji, Jiaqi Zhang, Xiaolong Ma, Shiwei Liu, Lu Yin  Github Paper [//]: #12/09",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "DeepSpeed",
-              "description": "MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization Jingming Guo, Yan Liu, Yu Meng, Zhiwei Tao, Banglan Liu, Gang Chen, Xiang Li Github Paper [//]: #11/18",
+              "description": "MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization Jingming Guo, Yan Liu, Yu Meng, Zhiwei Tao, Banglan Liu, Gang Chen, Xiang Li  Github Paper [//]: #11/18",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,7 +956,7 @@
             {
               "node_type": "item",
               "title": "MoE-I2",
-              "description": "MoE-I2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition Cheng Yang, Yang Sui, Jinqi Xiao, Lingyi Huang, Yu Gong, Yuanlin Duan, Wenqi Jia, Miao Yin, Yu Cheng, Bo Yuan Github Paper [//]: #11/18",
+              "description": "MoE-I2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition Cheng Yang, Yang Sui, Jinqi Xiao, Lingyi Huang, Yu Gong, Yuanlin Duan, Wenqi Jia, Miao Yin, Yu Cheng, Bo Yuan  Github Paper [//]: #11/18",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -971,7 +971,7 @@
             {
               "node_type": "item",
               "title": "Mixture-Compressor-MoE",
-              "description": "MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More Wei Huang, Yue Liao, Jianhui Liu, Ruifei He, Haoru Tan, Shiming Zhang, Hongsheng Li, Si Liu, Xiaojuan Qi Github Paper [//]: #10/14",
+              "description": "MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More Wei Huang, Yue Liao, Jianhui Liu, Ruifei He, Haoru Tan, Shiming Zhang, Hongsheng Li, Si Liu, Xiaojuan Qi  Github Paper [//]: #10/14",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,7 +993,7 @@
             {
               "node_type": "item",
               "title": "hymba",
-              "description": "Hymba: A Hybrid-head Architecture for Small Language Models Xin Dong, Yonggan Fu, Shizhe Diao, Wonmin Byeon, Zijia Chen, Ameya Sunil Mahabaleshwarkar, Shih-Yang Liu, Matthijs Van Keirsbilck, Min-Hung Chen, Yoshi Suhara, Yingyan Lin, Jan Kautz, Pavlo Molchanov Paper",
+              "description": "Hymba: A Hybrid-head Architecture for Small Language Models Xin Dong, Yonggan Fu, Shizhe Diao, Wonmin Byeon, Zijia Chen, Ameya Sunil Mahabaleshwarkar, Shih-Yang Liu, Matthijs Van Keirsbilck, Min-Hung Chen, Yoshi Suhara, Yingyan Lin, Jan Kautz, Pavlo Molchanov  Paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1008,7 +1008,7 @@
             {
               "node_type": "item",
               "title": "MobiLlama",
-              "description": "star: MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT Omkar Thawakar, Ashmal Vayani, Salman Khan, Hisham Cholakal, Rao M. Anwer, Michael Felsberg, Tim Baldwin, Eric P. Xing, Fahad Shahbaz Khan Github Paper Model [//]: #Recommend",
+              "description": "star: MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT Omkar Thawakar, Ashmal Vayani, Salman Khan, Hisham Cholakal, Rao M. Anwer, Michael Felsberg, Tim Baldwin, Eric P. Xing, Fahad Shahbaz Khan  Github Paper Model [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1023,7 +1023,7 @@
             {
               "node_type": "item",
               "title": "megalodon",
-              "description": "star: Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length Xuezhe Ma, Xiaomeng Yang, Wenhan Xiong, Beidi Chen, Lili Yu, Hao Zhang, Jonathan May, Luke Zettlemoyer, Omer Levy, Chunting Zhou Github Paper [//]: #Recommend",
+              "description": "star: Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length Xuezhe Ma, Xiaomeng Yang, Wenhan Xiong, Beidi Chen, Lili Yu, Hao Zhang, Jonathan May, Luke Zettlemoyer, Omer Levy, Chunting Zhou  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,7 +1038,7 @@
             {
               "node_type": "item",
               "title": "SeerAttention",
-              "description": "SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs Yizhao Gao, Zhichen Zeng, Dayou Du, Shijie Cao, Hayden Kwok-Hay So, Ting Cao, Fan Yang, Mao Yang Github Paper [//]: #10/21",
+              "description": "SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs Yizhao Gao, Zhichen Zeng, Dayou Du, Shijie Cao, Hayden Kwok-Hay So, Ting Cao, Fan Yang, Mao Yang  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1053,7 +1053,7 @@
             {
               "node_type": "item",
               "title": "Basis_Sharing",
-              "description": "Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression Jingcun Wang, Yu-Guang Chen, Ing-Chao Lin, Bing Li, Grace Li Zhang Github Paper [//]: #10/14",
+              "description": "Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression Jingcun Wang, Yu-Guang Chen, Ing-Chao Lin, Bing Li, Grace Li Zhang  Github Paper [//]: #10/14",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1075,7 +1075,7 @@
             {
               "node_type": "item",
               "title": "HeadKV",
-              "description": "Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao Github Paper [//]: #11/17",
+              "description": "Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1090,7 +1090,7 @@
             {
               "node_type": "item",
               "title": "buzz-llm",
-              "description": "BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference Junqi Zhao, Zhijin Fang, Shu Li, Shaohui Yang, Shichao He Github Paper [//]: #11/17",
+              "description": "BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference Junqi Zhao, Zhijin Fang, Shu Li, Shaohui Yang, Shichao He  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1105,7 +1105,7 @@
             {
               "node_type": "item",
               "title": "LCKV",
-              "description": "A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference You Wu, Haoyi Wu, Kewei Tu Github Paper [//]: #10/30",
+              "description": "A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference You Wu, Haoyi Wu, Kewei Tu  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "vqllm",
-              "description": "Residual vector quantization for KV cache compression in large language model Ankur Kumar Github Paper [//]: #10/30",
+              "description": "Residual vector quantization for KV cache compression in large language model Ankur Kumar  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1135,7 +1135,7 @@
             {
               "node_type": "item",
               "title": "KVSharer",
-              "description": "KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing Yifei Yang, Zouying Cao, Qiguang Chen, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen Github Paper [//]: #10/29",
+              "description": "KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing Yifei Yang, Zouying Cao, Qiguang Chen, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen  Github Paper [//]: #10/29",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1150,7 +1150,7 @@
             {
               "node_type": "item",
               "title": "AdaKV",
-              "description": "Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou Github Paper [//]: #10/13",
+              "description": "Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou  Github Paper [//]: #10/13",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,7 +1165,7 @@
             {
               "node_type": "item",
               "title": "Context-Memory",
-              "description": "Compressed Context Memory for Online Language Model Interaction Jang-Hyun Kim, Junyoung Yeom, Sangdoo Yun, Hyun Oh Song Github Paper [//]: #10/13",
+              "description": "Compressed Context Memory for Online Language Model Interaction Jang-Hyun Kim, Junyoung Yeom, Sangdoo Yun, Hyun Oh Song  Github Paper [//]: #10/13",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1180,7 +1180,7 @@
             {
               "node_type": "item",
               "title": "KVzip",
-              "description": "KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction Jang-Hyun Kim, Jinuk Kim, Sangwoo Kwon, Jae W. Lee, Sangdoo Yun, Hyun Oh Song Github Paper [//]: #05/29",
+              "description": "KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction Jang-Hyun Kim, Jinuk Kim, Sangwoo Kwon, Jae W. Lee, Sangdoo Yun, Hyun Oh Song  Github Paper [//]: #05/29",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1202,7 +1202,7 @@
             {
               "node_type": "item",
               "title": "LLMLingua",
-              "description": "star: LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu Github Paper [//]: #Recommend",
+              "description": "star: LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1211,13 +1211,13 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6601
+                "stars": 6604
               }
             },
             {
               "node_type": "item",
               "title": "L3TC-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression",
-              "description": "L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression Junxuan Zhang, Zhengxue Cheng, Yan Zhao, Shihao Wang, Dajiang Zhou, Guo Lu, Li Song Github Paper [//]: #12/30",
+              "description": "L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression Junxuan Zhang, Zhengxue Cheng, Yan Zhao, Shihao Wang, Dajiang Zhou, Guo Lu, Li Song  Github Paper [//]: #12/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1232,7 +1232,7 @@
             {
               "node_type": "item",
               "title": "LLMLingua",
-              "description": "star: LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu Github Paper [//]: #Recommend",
+              "description": "star: LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1241,13 +1241,13 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6601
+                "stars": 6604
               }
             },
             {
               "node_type": "item",
               "title": "GenPI",
-              "description": "Generative Prompt Internalization Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo Github Paper [//]: #12/02",
+              "description": "Generative Prompt Internalization Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo  Github Paper [//]: #12/02",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,7 +1262,7 @@
             {
               "node_type": "item",
               "title": "multitok",
-              "description": "MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression Noel Elias, Homa Esfahanizadeh, Kaan Kale, Sriram Vishwanath, Muriel Medard Github Paper [//]: #11/17",
+              "description": "MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression Noel Elias, Homa Esfahanizadeh, Kaan Kale, Sriram Vishwanath, Muriel Medard  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1277,7 +1277,7 @@
             {
               "node_type": "item",
               "title": "cpc",
-              "description": "Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference Barys Liskavets, Maxim Ushakov, Shuvendu Roy, Mark Klibanov, Ali Etemad, Shane Luke Github Paper [//]: #12/30",
+              "description": "Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference Barys Liskavets, Maxim Ushakov, Shuvendu Roy, Mark Klibanov, Ali Etemad, Shane Luke  Github Paper [//]: #12/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1299,7 +1299,7 @@
             {
               "node_type": "item",
               "title": "Natural-GaLore",
-              "description": "Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning Arijit Das Github Paper [//]: #10/30",
+              "description": "Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning Arijit Das  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1321,7 +1321,7 @@
             {
               "node_type": "item",
               "title": "MonteCLoRA",
-              "description": "Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation Ayan Sengupta, Vaibhav Seth, Arinjay Pathak, Natraj Raman, Sriram Gopalakrishnan, Tanmoy Chakraborty Github Paper [//]: #11/18",
+              "description": "Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation Ayan Sengupta, Vaibhav Seth, Arinjay Pathak, Natraj Raman, Sriram Gopalakrishnan, Tanmoy Chakraborty  Github Paper [//]: #11/18",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1336,7 +1336,7 @@
             {
               "node_type": "item",
               "title": "Natural-GaLore",
-              "description": "Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning Arijit Das Github Paper [//]: #10/30",
+              "description": "Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning Arijit Das  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1351,7 +1351,7 @@
             {
               "node_type": "item",
               "title": "RoCoFT",
-              "description": "RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates Md Kowsher, Tara Esmaeilbeig, Chun-Nam Yu, Mojtaba Soltanalian, Niloofar Yousefi Github Paper [//]: #10/21",
+              "description": "RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates Md Kowsher, Tara Esmaeilbeig, Chun-Nam Yu, Mojtaba Soltanalian, Niloofar Yousefi  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1366,7 +1366,7 @@
             {
               "node_type": "item",
               "title": "IST",
-              "description": "Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models Kai Yao, Penlei Gao, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang, Jianke Zhu Github Paper [//]: #10/21",
+              "description": "Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models Kai Yao, Penlei Gao, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang, Jianke Zhu  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1381,7 +1381,7 @@
             {
               "node_type": "item",
               "title": "qeft",
-              "description": "QEFT: Quantization for Efficient Fine-Tuning of LLMs Changhun Lee, Jun-gyu Jin, Younghyun Cho, Eunhyeok Park Github Paper [//]: #10/21",
+              "description": "QEFT: Quantization for Efficient Fine-Tuning of LLMs Changhun Lee, Jun-gyu Jin, Younghyun Cho, Eunhyeok Park  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1396,7 +1396,7 @@
             {
               "node_type": "item",
               "title": "BIPEFT",
-              "description": "BIPEFT: Budget-Guided Iterative Search for Parameter Efficient Fine-Tuning of Large Pretrained Language Models Aofei Chang, Jiaqi Wang, Han Liu, Parminder Bhatia, Cao Xiao, Ting Wang, Fenglong Ma Github Paper [//]: #10/21",
+              "description": "BIPEFT: Budget-Guided Iterative Search for Parameter Efficient Fine-Tuning of Large Pretrained Language Models Aofei Chang, Jiaqi Wang, Han Liu, Parminder Bhatia, Cao Xiao, Ting Wang, Fenglong Ma  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "sparse_grads",
-              "description": "SparseGrad: A Selective Method for Efficient Fine-tuning of MLP Layers Viktoriia Chekalina, Anna Rudenko, Gleb Mezentsev, Alexander Mikhalev, Alexander Panchenko, Ivan Oseledets Github Paper [//]: #10/13",
+              "description": "SparseGrad: A Selective Method for Efficient Fine-tuning of MLP Layers Viktoriia Chekalina, Anna Rudenko, Gleb Mezentsev, Alexander Mikhalev, Alexander Panchenko, Ivan Oseledets  Github Paper [//]: #10/13",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1433,7 +1433,7 @@
             {
               "node_type": "item",
               "title": "LDB",
-              "description": "LayerDropBack: A Universally Applicable Approach for Accelerating Training of Deep Networks Evgeny Hershkovitch Neiterman, Gil Ben-Artzi Github Paper [//]: #12/30",
+              "description": "LayerDropBack: A Universally Applicable Approach for Accelerating Training of Deep Networks Evgeny Hershkovitch Neiterman, Gil Ben-Artzi  Github Paper [//]: #12/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1448,7 +1448,7 @@
             {
               "node_type": "item",
               "title": "LPA",
-              "description": "Scalable Efficient Training of Large Language Models with Low-dimensional Projected Attention Xingtai Lv, Ning Ding, Kaiyan Zhang, Ermo Hua, Ganqu Cui, Bowen Zhou Github Paper [//]: #11/18",
+              "description": "Scalable Efficient Training of Large Language Models with Low-dimensional Projected Attention Xingtai Lv, Ning Ding, Kaiyan Zhang, Ermo Hua, Ganqu Cui, Bowen Zhou  Github Paper [//]: #11/18",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1463,7 +1463,7 @@
             {
               "node_type": "item",
               "title": "COAT",
-              "description": "COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training Haocheng Xi, Han Cai, Ligeng Zhu, Yao Lu, Kurt Keutzer, Jianfei Chen, Song Han Github Paper [//]: #11/17",
+              "description": "COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training Haocheng Xi, Han Cai, Ligeng Zhu, Yao Lu, Kurt Keutzer, Jianfei Chen, Song Han  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1478,7 +1478,7 @@
             {
               "node_type": "item",
               "title": "BitPipe",
-              "description": "BitPipe: Bidirectional Interleaved Pipeline Parallelism for Accelerating Large Models Training Houming Wu, Ling Chen, Wenjie Yu Github Paper [//]: #11/17",
+              "description": "BitPipe: Bidirectional Interleaved Pipeline Parallelism for Accelerating Large Models Training Houming Wu, Ling Chen, Wenjie Yu  Github Paper [//]: #11/17",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1493,7 +1493,7 @@
             {
               "node_type": "item",
               "title": "Natural-GaLore",
-              "description": "Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning Arijit Das Github Paper [//]: #10/30",
+              "description": "Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning Arijit Das  Github Paper [//]: #10/30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1515,7 +1515,7 @@
             {
               "node_type": "item",
               "title": "LLM-Inference-Bench",
-              "description": "LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Farah Ferdaus et al Github Paper [//]: #11/18",
+              "description": "LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Farah Ferdaus et al  Github Paper [//]: #11/18",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1530,7 +1530,7 @@
             {
               "node_type": "item",
               "title": "Prompt-Compression-Survey",
-              "description": "Prompt Compression for Large Language Models: A Survey Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier Github Paper [//]: #10/21",
+              "description": "Prompt Compression for Large Language Models: A Survey Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier  Github Paper [//]: #10/21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:14:53.599Z",
+    "last_updated": "2026-08-25T06:02:13.343Z",
     "original_repository": "horseee/Awesome-Efficient-LLM",
     "original_repository_id": 643793540,
     "original_repository_sha": "215a1540bc0e7f80041b103b9f3765ddfca976d4",
