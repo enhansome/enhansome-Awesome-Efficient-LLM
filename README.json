@@ -97,7 +97,7 @@
                 "last_commit": "2024-08-09T03:50:00Z",
                 "owner": "locuslab",
                 "repo": "wanda",
-                "stars": 871
+                "stars": 872
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2024-03-27T01:46:02Z",
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2359
+                "stars": 2360
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3622
+                "stars": 3621
               }
             },
             {
@@ -591,7 +591,7 @@
                 "last_commit": "2026-07-27T05:52:06Z",
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40152
+                "stars": 40203
               }
             },
             {
@@ -745,7 +745,7 @@
                 "archived": false,
                 "id": 160988469,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:35:32Z",
+                "last_commit": "2026-08-26T19:10:43Z",
                 "owner": "flexflow",
                 "repo": "flexflow-train",
                 "stars": 1898
@@ -763,7 +763,7 @@
                 "last_commit": "2024-07-11T08:14:43Z",
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7266
+                "stars": 7268
               }
             },
             {
@@ -778,7 +778,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2511
+                "stars": 2510
               }
             },
             {
@@ -793,7 +793,7 @@
                 "last_commit": "2024-06-25T12:23:04Z",
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2767
+                "stars": 2770
               }
             },
             {
@@ -1017,7 +1017,7 @@
                 "last_commit": "2025-05-10T07:13:06Z",
                 "owner": "mbzuai-oryx",
                 "repo": "MobiLlama",
-                "stars": 670
+                "stars": 671
               }
             },
             {
@@ -1211,7 +1211,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6606
+                "stars": 6609
               }
             },
             {
@@ -1241,7 +1241,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6606
+                "stars": 6609
               }
             },
             {
@@ -1472,7 +1472,7 @@
                 "last_commit": "2025-08-09T00:16:58Z",
                 "owner": "NVlabs",
                 "repo": "COAT",
-                "stars": 264
+                "stars": 265
               }
             },
             {
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:12:29.245Z",
+    "last_updated": "2026-08-27T00:17:06.888Z",
     "original_repository": "horseee/Awesome-Efficient-LLM",
     "original_repository_id": 643793540,
     "original_repository_sha": "215a1540bc0e7f80041b103b9f3765ddfca976d4",
