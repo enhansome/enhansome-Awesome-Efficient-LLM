@@ -576,7 +576,7 @@
                 "last_commit": "2025-02-17T13:33:08Z",
                 "owner": "xinghaow99",
                 "repo": "BitStack",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -778,7 +778,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2510
+                "stars": 2511
               }
             },
             {
@@ -1062,7 +1062,7 @@
                 "last_commit": "2026-07-23T11:49:12Z",
                 "owner": "TUDa-HWAI",
                 "repo": "Basis_Sharing",
-                "stars": 25
+                "stars": 24
               }
             }
           ],
@@ -1552,9 +1552,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:06.888Z",
-    "original_repository": "horseee/Awesome-Efficient-LLM",
-    "original_repository_id": 643793540,
+    "last_updated": "2026-08-27T11:27:32.977Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 643793540,
+      "language": "Python",
+      "last_commit": "2025-06-17T02:35:25Z",
+      "owner": "horseee",
+      "repo": "Awesome-Efficient-LLM",
+      "stars": 2036
+    },
     "original_repository_sha": "215a1540bc0e7f80041b103b9f3765ddfca976d4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Efficient-LLM",
     "enhanced_repository_description": null,
