@@ -15,7 +15,7 @@
             "last_commit": "2026-06-26T02:29:32Z",
             "owner": "fscdc",
             "repo": "Awesome-Efficient-Reasoning-Models",
-            "stars": 318
+            "stars": 319
           },
           "first_seen": "2026-08-28T04:54:48.977Z"
         },
@@ -35,7 +35,7 @@
                     "last_commit": "2026-06-26T02:29:32Z",
                     "owner": "fscdc",
                     "repo": "Awesome-Efficient-Reasoning-Models",
-                    "stars": 318
+                    "stars": 319
                   },
                   "first_seen": "2026-08-28T04:54:48.977Z"
                 }
@@ -85,7 +85,7 @@
                 "last_commit": "2024-10-07T08:49:26Z",
                 "owner": "horseee",
                 "repo": "LLM-Pruner",
-                "stars": 1136
+                "stars": 1137
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -357,7 +357,7 @@
                 "last_commit": "2026-01-27T17:08:42Z",
                 "owner": "PiotrNawrot",
                 "repo": "sparse-frontier",
-                "stars": 129
+                "stars": 130
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -499,7 +499,7 @@
                 "last_commit": "2024-03-27T01:46:02Z",
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2361
+                "stars": 2362
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -515,7 +515,7 @@
                 "last_commit": "2024-07-12T03:11:08Z",
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1678
+                "stars": 1679
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -531,7 +531,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3622
+                "stars": 3623
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -627,7 +627,7 @@
                 "last_commit": "2026-07-27T05:52:06Z",
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40208
+                "stars": 40213
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -755,7 +755,7 @@
                 "last_commit": "2026-04-13T09:48:04Z",
                 "owner": "snu-mllab",
                 "repo": "GuidedQuant",
-                "stars": 55
+                "stars": 56
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             }
@@ -791,7 +791,7 @@
                 "archived": false,
                 "id": 160988469,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:26:22Z",
+                "last_commit": "2026-08-28T23:12:12Z",
                 "owner": "flexflow",
                 "repo": "flexflow-train",
                 "stars": 1898
@@ -826,7 +826,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2513
+                "stars": 2514
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -977,7 +977,7 @@
                 "last_commit": "2024-04-08T08:40:22Z",
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2332
+                "stars": 2333
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -1286,7 +1286,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6609
+                "stars": 6610
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -1318,7 +1318,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6609
+                "stars": 6610
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -1563,7 +1563,7 @@
                 "last_commit": "2025-08-09T00:16:58Z",
                 "owner": "NVlabs",
                 "repo": "COAT",
-                "stars": 265
+                "stars": 266
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
             },
@@ -1648,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:54:48.977Z",
+    "last_updated": "2026-08-29T02:55:39.088Z",
     "original_repository_info": {
       "archived": false,
       "id": 643793540,
