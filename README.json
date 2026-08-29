@@ -147,7 +147,7 @@
                 "open_issues": 48,
                 "owner": "locuslab",
                 "repo": "wanda",
-                "stars": 872,
+                "stars": 873,
                 "topics": [
                   "large-language-models",
                   "network-pruning"
@@ -566,7 +566,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465,
+                "stars": 4466,
                 "topics": [
                   "agi",
                   "gpt",
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -895,7 +895,7 @@
                 "open_issues": 319,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40212,
+                "stars": 40217,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T23:12:12Z",
+                "last_commit": "2026-08-29T19:51:52Z",
                 "open_issues": 248,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2770,
+                "stars": 2771,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:42.549Z",
+    "last_updated": "2026-08-29T22:49:21.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
