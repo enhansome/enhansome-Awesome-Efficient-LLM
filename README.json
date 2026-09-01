@@ -112,7 +112,7 @@
                 "open_issues": 66,
                 "owner": "horseee",
                 "repo": "LLM-Pruner",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": [
                   "baichuan",
                   "bloom",
@@ -308,7 +308,7 @@
                 "open_issues": 2,
                 "owner": "hexuandeng",
                 "repo": "DRPruning",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "data-centric",
                   "dro",
@@ -517,7 +517,7 @@
                 "open_issues": 3,
                 "owner": "PiotrNawrot",
                 "repo": "sparse-frontier",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -739,7 +739,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1679,
+                "stars": 1681,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -757,10 +757,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-17T19:44:51Z",
-                "open_issues": 194,
+                "open_issues": 198,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3624,
+                "stars": 3623,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -895,7 +895,7 @@
                 "open_issues": 319,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40216,
+                "stars": 40220,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,8 +1127,8 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T12:10:59Z",
-                "open_issues": 248,
+                "last_commit": "2026-08-31T23:14:50Z",
+                "open_issues": 249,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
                 "stars": 1898,
@@ -1335,7 +1335,7 @@
                 "open_issues": 2,
                 "owner": "hemingkx",
                 "repo": "SWIFT",
-                "stars": 71,
+                "stars": 70,
                 "topics": [
                   "speculative-decoding"
                 ]
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1812,7 +1812,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6611,
+                "stars": 6613,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6611,
+                "stars": 6613,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:57:02.553Z",
+    "last_updated": "2026-09-01T00:07:32.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2302,7 +2302,7 @@
       "open_issues": 11,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2036,
+      "stars": 2037,
       "topics": [
         "compression",
         "efficient-llm",
