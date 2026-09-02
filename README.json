@@ -441,7 +441,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-06T05:46:06Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ZhengaoLi",
                 "repo": "DISP-LLM-Dimension-Independent-Structural-Pruning",
                 "stars": 25,
@@ -760,7 +760,7 @@
                 "open_issues": 198,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3623,
+                "stars": 3624,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1127,8 +1127,8 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T17:25:19Z",
-                "open_issues": 249,
+                "last_commit": "2026-09-02T21:55:54Z",
+                "open_issues": 250,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
                 "stars": 1898,
@@ -1173,7 +1173,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2520,
+                "stars": 2521,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1477,7 +1477,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-02-12T07:48:24Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Aaronhuang-778",
                 "repo": "Mixture-Compressor-MoE",
                 "stars": 77,
@@ -1512,7 +1512,7 @@
                 "open_issues": 2,
                 "owner": "NVlabs",
                 "repo": "hymba",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1812,7 +1812,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6618,
+                "stars": 6623,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6618,
+                "stars": 6623,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:51:10.211Z",
+    "last_updated": "2026-09-02T22:52:12.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
