@@ -147,7 +147,7 @@
                 "open_issues": 48,
                 "owner": "locuslab",
                 "repo": "wanda",
-                "stars": 873,
+                "stars": 874,
                 "topics": [
                   "large-language-models",
                   "network-pruning"
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2362,
+                "stars": 2363,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 913,
+                "stars": 915,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -895,7 +895,7 @@
                 "open_issues": 319,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40222,
+                "stars": 40223,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -916,7 +916,7 @@
                 "open_issues": 21,
                 "owner": "SqueezeAILab",
                 "repo": "SqueezeLLM",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "efficient-inference",
                   "large-language-models",
@@ -1127,11 +1127,11 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T21:55:54Z",
-                "open_issues": 250,
+                "last_commit": "2026-09-03T22:34:47Z",
+                "open_issues": 255,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
-                "stars": 1898,
+                "stars": 1899,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1173,7 +1173,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2521,
+                "stars": 2524,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2771,
+                "stars": 2772,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1480,7 +1480,7 @@
                 "open_issues": 4,
                 "owner": "Aaronhuang-778",
                 "repo": "Mixture-Compressor-MoE",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "llms",
                   "mixture-of-experts",
@@ -1812,7 +1812,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6623,
+                "stars": 6625,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6623,
+                "stars": 6625,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:52:12.273Z",
+    "last_updated": "2026-09-03T22:51:09.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
