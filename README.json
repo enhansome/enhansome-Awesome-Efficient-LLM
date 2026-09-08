@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "fscdc",
             "repo": "Awesome-Efficient-Reasoning-Models",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "chain-of-thought",
               "compression",
@@ -48,7 +48,7 @@
                     "open_issues": 0,
                     "owner": "fscdc",
                     "repo": "Awesome-Efficient-Reasoning-Models",
-                    "stars": 319,
+                    "stars": 320,
                     "topics": [
                       "chain-of-thought",
                       "compression",
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2366,
+                "stars": 2368,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,8 +1127,8 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T19:07:21Z",
-                "open_issues": 252,
+                "last_commit": "2026-09-08T21:56:14Z",
+                "open_issues": 253,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
                 "stars": 1899,
@@ -1173,7 +1173,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2525,
+                "stars": 2527,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1314,7 +1314,7 @@
                 "open_issues": 15,
                 "owner": "mit-han-lab",
                 "repo": "duo-attention",
-                "stars": 539,
+                "stars": 540,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2334,
+                "stars": 2333,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1581,7 +1581,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "SeerAttention",
-                "stars": 217,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1809,10 +1809,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-08T18:59:13Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6634,
+                "stars": 6637,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1851,10 +1851,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-08T18:59:13Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6634,
+                "stars": 6637,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:01:52.631Z",
+    "last_updated": "2026-09-08T23:00:28.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2302,7 +2302,7 @@
       "open_issues": 11,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2039,
+      "stars": 2042,
       "topics": [
         "compression",
         "efficient-llm",
