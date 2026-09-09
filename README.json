@@ -566,7 +566,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4469,
+                "stars": 4472,
                 "topics": [
                   "agi",
                   "gpt",
@@ -739,7 +739,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -760,7 +760,7 @@
                 "open_issues": 201,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3631,
+                "stars": 3633,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 920,
+                "stars": 923,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -827,7 +827,7 @@
                 "open_issues": 0,
                 "owner": "abdelfattah-lab",
                 "repo": "BitMoD-HPCA-25",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "hardware-acceleration",
                   "llm-inference",
@@ -895,7 +895,7 @@
                 "open_issues": 326,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40228,
+                "stars": 40229,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,8 +1127,8 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T21:56:14Z",
-                "open_issues": 253,
+                "last_commit": "2026-09-09T20:22:16Z",
+                "open_issues": 255,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
                 "stars": 1899,
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7267,
+                "stars": 7266,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1560,7 +1560,7 @@
                 "open_issues": 2,
                 "owner": "XuezheMax",
                 "repo": "megalodon",
-                "stars": 526,
+                "stars": 527,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1581,7 +1581,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "SeerAttention",
-                "stars": 219,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6637,
+                "stars": 6640,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6637,
+                "stars": 6640,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:00:28.995Z",
+    "last_updated": "2026-09-09T22:47:21.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
