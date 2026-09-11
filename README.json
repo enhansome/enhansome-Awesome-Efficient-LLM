@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 926,
+                "stars": 928,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -895,7 +895,7 @@
                 "open_issues": 327,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40231,
+                "stars": 40233,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T11:36:25Z",
+                "last_commit": "2026-09-11T10:02:42Z",
                 "open_issues": 255,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1173,7 +1173,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2527,
+                "stars": 2528,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1808,11 +1808,11 @@
                 "id": 663368311,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-04-08T18:59:13Z",
+                "last_commit": "2026-09-10T23:37:23Z",
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6646,
+                "stars": 6647,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1850,11 +1850,11 @@
                 "id": 663368311,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-04-08T18:59:13Z",
+                "last_commit": "2026-09-10T23:37:23Z",
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6646,
+                "stars": 6647,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:48:22.347Z",
+    "last_updated": "2026-09-11T22:49:03.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
