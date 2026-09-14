@@ -91,7 +91,7 @@
                 "open_issues": 18,
                 "owner": "IST-DASLab",
                 "repo": "sparsegpt",
-                "stars": 893,
+                "stars": 894,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -147,7 +147,7 @@
                 "open_issues": 48,
                 "owner": "locuslab",
                 "repo": "wanda",
-                "stars": 874,
+                "stars": 875,
                 "topics": [
                   "large-language-models",
                   "network-pruning"
@@ -200,7 +200,7 @@
                 "open_issues": 8,
                 "owner": "NVlabs",
                 "repo": "MaskLLM",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -566,7 +566,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4473,
+                "stars": 4474,
                 "topics": [
                   "agi",
                   "gpt",
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2369,
+                "stars": 2370,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -760,7 +760,7 @@
                 "open_issues": 201,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3633,
+                "stars": 3634,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 935,
+                "stars": 937,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 330,
+                "open_issues": 331,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40232,
+                "stars": 40234,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T08:51:17Z",
+                "last_commit": "2026-09-14T13:53:35Z",
                 "open_issues": 255,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7267,
+                "stars": 7268,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1173,7 +1173,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2529,
+                "stars": 2530,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2771,
+                "stars": 2772,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2334,
+                "stars": 2335,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1781,7 +1781,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6652,
+                "stars": 6654,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6652,
+                "stars": 6654,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:40:32.737Z",
+    "last_updated": "2026-09-14T23:32:01.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
