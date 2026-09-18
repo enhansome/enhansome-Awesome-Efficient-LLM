@@ -739,7 +739,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1686,
+                "stars": 1685,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 942,
+                "stars": 943,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -895,7 +895,7 @@
                 "open_issues": 332,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40268,
+                "stars": 40271,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -916,7 +916,7 @@
                 "open_issues": 21,
                 "owner": "SqueezeAILab",
                 "repo": "SqueezeLLM",
-                "stars": 724,
+                "stars": 723,
                 "topics": [
                   "efficient-inference",
                   "large-language-models",
@@ -1127,11 +1127,11 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T19:14:28Z",
+                "last_commit": "2026-09-18T18:56:44Z",
                 "open_issues": 251,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
-                "stars": 1899,
+                "stars": 1900,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7268,
+                "stars": 7266,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2772,
+                "stars": 2773,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6677,
+                "stars": 6681,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6677,
+                "stars": 6681,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:08:35.240Z",
+    "last_updated": "2026-09-18T22:51:40.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
