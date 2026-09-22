@@ -147,7 +147,7 @@
                 "open_issues": 48,
                 "owner": "locuslab",
                 "repo": "wanda",
-                "stars": 876,
+                "stars": 877,
                 "topics": [
                   "large-language-models",
                   "network-pruning"
@@ -566,7 +566,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4474,
+                "stars": 4475,
                 "topics": [
                   "agi",
                   "gpt",
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2377,
+                "stars": 2378,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -739,7 +739,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -760,7 +760,7 @@
                 "open_issues": 201,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3638,
+                "stars": 3639,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 947,
+                "stars": 949,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 328,
+                "open_issues": 329,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40332,
+                "stars": 40336,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T23:07:03Z",
+                "last_commit": "2026-09-22T01:01:42Z",
                 "open_issues": 248,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7267,
+                "stars": 7269,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6689,
+                "stars": 6694,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6689,
+                "stars": 6694,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 7,
                 "owner": "NVlabs",
                 "repo": "COAT",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:41:30.851Z",
+    "last_updated": "2026-09-22T23:17:55.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
