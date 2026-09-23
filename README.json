@@ -874,7 +874,7 @@
                 "open_issues": 0,
                 "owner": "xinghaow99",
                 "repo": "BitStack",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 329,
+                "open_issues": 330,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40336,
+                "stars": 40339,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -971,7 +971,7 @@
                 "open_issues": 0,
                 "owner": "Paramathic",
                 "repo": "slim",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1110,7 +1110,7 @@
                 "open_issues": 27,
                 "owner": "FMInference",
                 "repo": "DejaVu",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T01:01:42Z",
+                "last_commit": "2026-09-23T22:07:50Z",
                 "open_issues": 248,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7269,
+                "stars": 7268,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1173,7 +1173,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2538,
+                "stars": 2540,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2336,
+                "stars": 2335,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6694,
+                "stars": 6698,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6694,
+                "stars": 6698,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:17:55.501Z",
+    "last_updated": "2026-09-23T23:13:59.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2299,7 +2299,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2025-06-17T02:35:25Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
       "stars": 2043,
