@@ -109,7 +109,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-10-07T08:49:26Z",
-                "open_issues": 66,
+                "open_issues": 65,
                 "owner": "horseee",
                 "repo": "LLM-Pruner",
                 "stars": 1141,
@@ -760,7 +760,7 @@
                 "open_issues": 201,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3639,
+                "stars": 3641,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 330,
+                "open_issues": 329,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40346,
+                "stars": 40349,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1110,7 +1110,7 @@
                 "open_issues": 27,
                 "owner": "FMInference",
                 "repo": "DejaVu",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T22:46:34Z",
+                "last_commit": "2026-09-25T13:27:45Z",
                 "open_issues": 248,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1173,7 +1173,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2540,
+                "stars": 2542,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2772,
+                "stars": 2771,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2334,
+                "stars": 2335,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6702,
+                "stars": 6703,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6702,
+                "stars": 6703,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:33:29.736Z",
+    "last_updated": "2026-09-25T23:37:35.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
