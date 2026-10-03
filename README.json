@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "fscdc",
             "repo": "Awesome-Efficient-Reasoning-Models",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "chain-of-thought",
               "compression",
@@ -48,7 +48,7 @@
                     "open_issues": 0,
                     "owner": "fscdc",
                     "repo": "Awesome-Efficient-Reasoning-Models",
-                    "stars": 321,
+                    "stars": 322,
                     "topics": [
                       "chain-of-thought",
                       "compression",
@@ -360,7 +360,7 @@
                 "open_issues": 2,
                 "owner": "AboveParadise",
                 "repo": "LLMCBench",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -669,7 +669,7 @@
                 "open_issues": 1,
                 "owner": "jdeschena",
                 "repo": "sdtt",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -760,7 +760,7 @@
                 "open_issues": 204,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3643,
+                "stars": 3644,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 956,
+                "stars": 955,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -895,7 +895,7 @@
                 "open_issues": 331,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40356,
+                "stars": 40355,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1076,7 +1076,7 @@
                 "open_issues": 0,
                 "owner": "snu-mllab",
                 "repo": "GuidedQuant",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "efficient-inference",
                   "large-language-models",
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T00:16:23Z",
+                "last_commit": "2026-10-02T21:05:43Z",
                 "open_issues": 250,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2334,
+                "stars": 2333,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6720,
+                "stars": 6724,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6720,
+                "stars": 6724,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:16:06.176Z",
+    "last_updated": "2026-10-03T00:01:02.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
