@@ -760,7 +760,7 @@
                 "open_issues": 204,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3644,
+                "stars": 3645,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 331,
+                "open_issues": 332,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40356,
+                "stars": 40359,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1076,7 +1076,7 @@
                 "open_issues": 0,
                 "owner": "snu-mllab",
                 "repo": "GuidedQuant",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "efficient-inference",
                   "large-language-models",
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:05:43Z",
+                "last_commit": "2026-10-03T17:17:45Z",
                 "open_issues": 250,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2771,
+                "stars": 2770,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:46.833Z",
+    "last_updated": "2026-10-03T23:22:49.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
