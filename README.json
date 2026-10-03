@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Reasoning Model",
-          "description": null,
+          "description": "fscdc/Awesome-Efficient-Reasoning-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -895,7 +895,7 @@
                 "open_issues": 331,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40355,
+                "stars": 40356,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1812,7 +1812,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6724,
+                "stars": 6725,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6724,
+                "stars": 6725,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:01:02.396Z",
+    "last_updated": "2026-10-03T04:25:46.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
