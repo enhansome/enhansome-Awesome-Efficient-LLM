@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2381,
+                "stars": 2382,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -757,10 +757,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-17T19:44:51Z",
-                "open_issues": 207,
+                "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3645,
+                "stars": 3647,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 957,
+                "stars": 956,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 332,
+                "open_issues": 333,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40364,
+                "stars": 40367,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1055,7 +1055,7 @@
                 "open_issues": 15,
                 "owner": "Vahe1994",
                 "repo": "AQLM",
-                "stars": 1329,
+                "stars": 1328,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,11 +1127,11 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T18:41:58Z",
+                "last_commit": "2026-10-06T00:48:40Z",
                 "open_issues": 250,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
-                "stars": 1901,
+                "stars": 1900,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7267,
+                "stars": 7266,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1533,7 +1533,7 @@
                 "open_issues": 14,
                 "owner": "mbzuai-oryx",
                 "repo": "MobiLlama",
-                "stars": 671,
+                "stars": 670,
                 "topics": [
                   "efficient-llm",
                   "llm",
@@ -1781,7 +1781,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 225,
+                "stars": 224,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1809,7 +1809,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
                 "stars": 6729,
@@ -1851,7 +1851,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
                 "stars": 6729,
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:37:34.501Z",
+    "last_updated": "2026-10-06T01:32:13.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
