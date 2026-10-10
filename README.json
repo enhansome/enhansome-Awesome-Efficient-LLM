@@ -517,7 +517,7 @@
                 "open_issues": 3,
                 "owner": "PiotrNawrot",
                 "repo": "sparse-frontier",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -566,7 +566,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4477,
+                "stars": 4478,
                 "topics": [
                   "agi",
                   "gpt",
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -739,7 +739,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1695,
+                "stars": 1696,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 335,
+                "open_issues": 333,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40373,
+                "stars": 40376,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1055,7 +1055,7 @@
                 "open_issues": 15,
                 "owner": "Vahe1994",
                 "repo": "AQLM",
-                "stars": 1328,
+                "stars": 1329,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2771,
+                "stars": 2772,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1812,7 +1812,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6740,
+                "stars": 6741,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6740,
+                "stars": 6741,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:42:05.082Z",
+    "last_updated": "2026-10-10T00:21:01.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
