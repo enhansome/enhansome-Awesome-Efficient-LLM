@@ -15,11 +15,11 @@
             "id": 964653555,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-26T02:29:32Z",
+            "last_commit": "2026-10-14T15:07:27Z",
             "open_issues": 0,
             "owner": "fscdc",
             "repo": "Awesome-Efficient-Reasoning-Models",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "chain-of-thought",
               "compression",
@@ -44,11 +44,11 @@
                     "id": 964653555,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-06-26T02:29:32Z",
+                    "last_commit": "2026-10-14T15:07:27Z",
                     "open_issues": 0,
                     "owner": "fscdc",
                     "repo": "Awesome-Efficient-Reasoning-Models",
-                    "stars": 322,
+                    "stars": 323,
                     "topics": [
                       "chain-of-thought",
                       "compression",
@@ -566,7 +566,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4480,
+                "stars": 4481,
                 "topics": [
                   "agi",
                   "gpt",
@@ -739,7 +739,7 @@
                 "open_issues": 73,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1697,
+                "stars": 1698,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -895,7 +895,7 @@
                 "open_issues": 373,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41128,
+                "stars": 41158,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -971,7 +971,7 @@
                 "open_issues": 0,
                 "owner": "Paramathic",
                 "repo": "slim",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T03:06:02Z",
+                "last_commit": "2026-10-14T00:18:51Z",
                 "open_issues": 249,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7272,
+                "stars": 7274,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1173,7 +1173,7 @@
                 "open_issues": 102,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2551,
+                "stars": 2552,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2776,
+                "stars": 2775,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1812,7 +1812,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6749,
+                "stars": 6755,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6749,
+                "stars": 6755,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:58:04.843Z",
+    "last_updated": "2026-10-14T23:29:45.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2302,7 +2302,7 @@
       "open_issues": 11,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2044,
+      "stars": 2045,
       "topics": [
         "compression",
         "efficient-llm",
