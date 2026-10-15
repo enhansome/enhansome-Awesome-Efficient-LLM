@@ -15,7 +15,7 @@
             "id": 964653555,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T15:07:27Z",
+            "last_commit": "2026-10-15T10:56:48Z",
             "open_issues": 0,
             "owner": "fscdc",
             "repo": "Awesome-Efficient-Reasoning-Models",
@@ -44,7 +44,7 @@
                     "id": 964653555,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T15:07:27Z",
+                    "last_commit": "2026-10-15T10:56:48Z",
                     "open_issues": 0,
                     "owner": "fscdc",
                     "repo": "Awesome-Efficient-Reasoning-Models",
@@ -112,7 +112,7 @@
                 "open_issues": 65,
                 "owner": "horseee",
                 "repo": "LLM-Pruner",
-                "stars": 1141,
+                "stars": 1142,
                 "topics": [
                   "baichuan",
                   "bloom",
@@ -381,7 +381,7 @@
                 "open_issues": 0,
                 "owner": "IST-DASLab",
                 "repo": "EvoPress",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -895,7 +895,7 @@
                 "open_issues": 373,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41158,
+                "stars": 41171,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T00:18:51Z",
+                "last_commit": "2026-10-15T19:17:41Z",
                 "open_issues": 249,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2775,
+                "stars": 2776,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1386,7 +1386,7 @@
                 "open_issues": 26,
                 "owner": "dvmazur",
                 "repo": "mixtral-offloading",
-                "stars": 2335,
+                "stars": 2336,
                 "topics": [
                   "colab-notebook",
                   "deep-learning",
@@ -1812,7 +1812,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6755,
+                "stars": 6756,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6755,
+                "stars": 6756,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:29:45.456Z",
+    "last_updated": "2026-10-15T23:20:04.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2302,7 +2302,7 @@
       "open_issues": 11,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2045,
+      "stars": 2046,
       "topics": [
         "compression",
         "efficient-llm",
