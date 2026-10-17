@@ -147,7 +147,7 @@
                 "open_issues": 48,
                 "owner": "locuslab",
                 "repo": "wanda",
-                "stars": 881,
+                "stars": 883,
                 "topics": [
                   "large-language-models",
                   "network-pruning"
@@ -566,7 +566,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4482,
+                "stars": 4483,
                 "topics": [
                   "agi",
                   "gpt",
@@ -827,7 +827,7 @@
                 "open_issues": 0,
                 "owner": "abdelfattah-lab",
                 "repo": "BitMoD-HPCA-25",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "hardware-acceleration",
                   "llm-inference",
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 374,
+                "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41178,
+                "stars": 41182,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T19:17:41Z",
+                "last_commit": "2026-10-17T09:42:06Z",
                 "open_issues": 249,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1173,7 +1173,7 @@
                 "open_issues": 102,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2552,
+                "stars": 2555,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1533,7 +1533,7 @@
                 "open_issues": 14,
                 "owner": "mbzuai-oryx",
                 "repo": "MobiLlama",
-                "stars": 671,
+                "stars": 670,
                 "topics": [
                   "efficient-llm",
                   "llm",
@@ -1809,7 +1809,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
                 "stars": 6756,
@@ -1851,7 +1851,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
                 "stars": 6756,
@@ -2155,7 +2155,7 @@
                 "open_issues": 0,
                 "owner": "TsinghuaC3I",
                 "repo": "LPA",
-                "stars": 11,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:03:23.065Z",
+    "last_updated": "2026-10-17T22:42:09.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2302,7 +2302,7 @@
       "open_issues": 11,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2047,
+      "stars": 2046,
       "topics": [
         "compression",
         "efficient-llm",
