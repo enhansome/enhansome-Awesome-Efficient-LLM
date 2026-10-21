@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "fscdc",
             "repo": "Awesome-Efficient-Reasoning-Models",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "chain-of-thought",
               "compression",
@@ -48,7 +48,7 @@
                     "open_issues": 0,
                     "owner": "fscdc",
                     "repo": "Awesome-Efficient-Reasoning-Models",
-                    "stars": 323,
+                    "stars": 324,
                     "topics": [
                       "chain-of-thought",
                       "compression",
@@ -91,7 +91,7 @@
                 "open_issues": 18,
                 "owner": "IST-DASLab",
                 "repo": "sparsegpt",
-                "stars": 900,
+                "stars": 901,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -147,7 +147,7 @@
                 "open_issues": 48,
                 "owner": "locuslab",
                 "repo": "wanda",
-                "stars": 883,
+                "stars": 882,
                 "topics": [
                   "large-language-models",
                   "network-pruning"
@@ -381,7 +381,7 @@
                 "open_issues": 0,
                 "owner": "IST-DASLab",
                 "repo": "EvoPress",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2386,
+                "stars": 2387,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 963,
+                "stars": 964,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -895,7 +895,7 @@
                 "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41214,
+                "stars": 41224,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1055,7 +1055,7 @@
                 "open_issues": 15,
                 "owner": "Vahe1994",
                 "repo": "AQLM",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1533,7 +1533,7 @@
                 "open_issues": 14,
                 "owner": "mbzuai-oryx",
                 "repo": "MobiLlama",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "efficient-llm",
                   "llm",
@@ -1781,7 +1781,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 225,
+                "stars": 227,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1812,7 +1812,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6763,
+                "stars": 6768,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6763,
+                "stars": 6768,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:28:10.700Z",
+    "last_updated": "2026-10-21T23:43:35.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
