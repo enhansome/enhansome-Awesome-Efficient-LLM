@@ -91,7 +91,7 @@
                 "open_issues": 18,
                 "owner": "IST-DASLab",
                 "repo": "sparsegpt",
-                "stars": 901,
+                "stars": 902,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -556,7 +556,7 @@
               "description": "Yuxian Gu, Li Dong, Furu Wei, Minlie Huang  Github Paper [//]: #Recommend",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
                 "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
@@ -895,7 +895,7 @@
                 "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41229,
+                "stars": 41237,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T06:27:23Z",
+                "last_commit": "2026-10-26T14:48:04Z",
                 "open_issues": 249,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7273,
+                "stars": 7274,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1170,7 +1170,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-20T02:53:29Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
                 "stars": 2562,
@@ -1812,7 +1812,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6773,
+                "stars": 6774,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6773,
+                "stars": 6774,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:49:59.868Z",
+    "last_updated": "2026-10-27T00:06:17.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
