@@ -109,7 +109,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-10-07T08:49:26Z",
-                "open_issues": 65,
+                "open_issues": 64,
                 "owner": "horseee",
                 "repo": "LLM-Pruner",
                 "stars": 1147,
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2394,
+                "stars": 2396,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -739,7 +739,7 @@
                 "open_issues": 73,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1701,
+                "stars": 1702,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 380,
+                "open_issues": 378,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41511,
+                "stars": 41514,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T21:59:31Z",
+                "last_commit": "2026-11-09T23:56:50Z",
                 "open_issues": 250,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1602,7 +1602,7 @@
                 "open_issues": 1,
                 "owner": "TUDa-HWAI",
                 "repo": "Basis_Sharing",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1808,11 +1808,11 @@
                 "id": 663368311,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T09:36:47Z",
+                "last_commit": "2026-11-09T16:46:04Z",
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6810,
+                "stars": 6812,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1850,11 +1850,11 @@
                 "id": 663368311,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T09:36:47Z",
+                "last_commit": "2026-11-09T16:46:04Z",
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6810,
+                "stars": 6812,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T00:08:20.333Z",
+    "last_updated": "2026-11-10T02:58:39.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2302,7 +2302,7 @@
       "open_issues": 14,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2048,
+      "stars": 2050,
       "topics": [
         "compression",
         "efficient-llm",
