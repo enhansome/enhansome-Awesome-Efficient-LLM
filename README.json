@@ -690,7 +690,7 @@
                 "open_issues": 5,
                 "owner": "thu-coai",
                 "repo": "MiniPLM",
-                "stars": 81,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2396,
+                "stars": 2398,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -760,7 +760,7 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3663,
+                "stars": 3664,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -781,7 +781,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 968,
+                "stars": 969,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -895,7 +895,7 @@
                 "open_issues": 378,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41514,
+                "stars": 41516,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1110,7 +1110,7 @@
                 "open_issues": 27,
                 "owner": "FMInference",
                 "repo": "DejaVu",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,8 +1127,8 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T23:56:50Z",
-                "open_issues": 250,
+                "last_commit": "2026-11-10T22:57:36Z",
+                "open_issues": 251,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
                 "stars": 1903,
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7277,
+                "stars": 7278,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2774,
+                "stars": 2773,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1781,7 +1781,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1812,7 +1812,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6812,
+                "stars": 6813,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6812,
+                "stars": 6813,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2290,7 +2290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:58:39.102Z",
+    "last_updated": "2026-11-11T00:55:41.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2302,7 +2302,7 @@
       "open_issues": 14,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2050,
+      "stars": 2051,
       "topics": [
         "compression",
         "efficient-llm",
