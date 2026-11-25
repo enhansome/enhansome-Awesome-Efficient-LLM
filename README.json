@@ -91,7 +91,7 @@
                 "open_issues": 18,
                 "owner": "IST-DASLab",
                 "repo": "sparsegpt",
-                "stars": 903,
+                "stars": 904,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -566,7 +566,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4481,
+                "stars": 4482,
                 "topics": [
                   "agi",
                   "gpt",
@@ -827,7 +827,7 @@
                 "open_issues": 0,
                 "owner": "abdelfattah-lab",
                 "repo": "BitMoD-HPCA-25",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "hardware-acceleration",
                   "llm-inference",
@@ -895,7 +895,7 @@
                 "open_issues": 383,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 42448,
+                "stars": 42463,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1055,7 +1055,7 @@
                 "open_issues": 15,
                 "owner": "Vahe1994",
                 "repo": "AQLM",
-                "stars": 1331,
+                "stars": 1332,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T03:46:44Z",
+                "last_commit": "2026-11-24T20:51:52Z",
                 "open_issues": 252,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1173,7 +1173,7 @@
                 "open_issues": 104,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2583,
+                "stars": 2584,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -1817,7 +1817,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6853,
+                "stars": 6857,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1859,7 +1859,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6853,
+                "stars": 6857,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2251,7 +2251,7 @@
                 "open_issues": 3,
                 "owner": "argonne-lcf",
                 "repo": "LLM-Inference-Bench",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "benchmark",
                   "deepspeed",
@@ -2295,7 +2295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:01:19.111Z",
+    "last_updated": "2026-11-25T03:48:12.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
