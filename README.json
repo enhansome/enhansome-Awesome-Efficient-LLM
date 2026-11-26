@@ -757,7 +757,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-17T19:44:51Z",
-                "open_issues": 210,
+                "open_issues": 195,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
                 "stars": 3666,
@@ -895,7 +895,7 @@
                 "open_issues": 383,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 42463,
+                "stars": 42480,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T20:51:52Z",
+                "last_commit": "2026-11-25T22:25:15Z",
                 "open_issues": 252,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1152,7 +1152,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7273,
+                "stars": 7274,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1198,7 +1198,7 @@
                 "open_issues": 57,
                 "owner": "FasterDecoding",
                 "repo": "Medusa",
-                "stars": 2774,
+                "stars": 2775,
                 "topics": [
                   "llm",
                   "llm-inference"
@@ -1817,7 +1817,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6857,
+                "stars": 6861,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1859,7 +1859,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6857,
+                "stars": 6861,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2295,7 +2295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:48:12.679Z",
+    "last_updated": "2026-11-26T03:13:26.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
