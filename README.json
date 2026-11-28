@@ -760,7 +760,7 @@
                 "open_issues": 197,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3667,
+                "stars": 3668,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -892,10 +892,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 384,
+                "open_issues": 385,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 42505,
+                "stars": 42507,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1127,7 +1127,7 @@
                 "id": 160988469,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T21:49:45Z",
+                "last_commit": "2026-11-28T00:53:50Z",
                 "open_issues": 252,
                 "owner": "flexflow",
                 "repo": "flexflow-train",
@@ -1152,7 +1152,7 @@
                 "open_issues": 52,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7275,
+                "stars": 7274,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1560,7 +1560,7 @@
                 "open_issues": 2,
                 "owner": "XuezheMax",
                 "repo": "megalodon",
-                "stars": 527,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1817,7 +1817,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6867,
+                "stars": 6871,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -1859,7 +1859,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6867,
+                "stars": 6871,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:54:48.977Z"
@@ -2251,7 +2251,7 @@
                 "open_issues": 3,
                 "owner": "argonne-lcf",
                 "repo": "LLM-Inference-Bench",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "benchmark",
                   "deepspeed",
@@ -2295,7 +2295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:18:33.110Z",
+    "last_updated": "2026-11-28T02:58:20.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list for Efficient Large Language Models",
@@ -2307,7 +2307,7 @@
       "open_issues": 13,
       "owner": "horseee",
       "repo": "Awesome-Efficient-LLM",
-      "stars": 2053,
+      "stars": 2052,
       "topics": [
         "compression",
         "efficient-llm",
